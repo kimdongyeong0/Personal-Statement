@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"c678fdc45c3ee796","type":"text","text":"AI, Computer Science","x":-120,"y":-120,"width":250,"height":60},
-		{"id":"508fbba238f72ffa","type":"file","file":"Major Elements/1. Why? 책.md","x":-560,"y":-472,"width":290,"height":145},
+		{"id":"508fbba238f72ffa","type":"file","file":"Major Elements/1. Why 책.md","x":-560,"y":-472,"width":290,"height":145},
 		{"id":"2797c1ef61b087e1","type":"file","file":"Major Elements/2. 박스를 이용한 PC 모형.md","x":-760,"y":-237,"width":290,"height":147},
 		{"id":"71d48912ba663711","type":"file","file":"Major Elements/3. 조립 PC.md","x":-780,"y":-40,"width":290,"height":145},
 		{"id":"7412f4167d4b6356","type":"file","file":"Major Elements/인문, 사회.md","x":-490,"y":200,"width":290,"height":145},
