@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"5c63655913d54829","type":"text","text":"Community (Activity, Communication, Collaboration)","x":-220,"y":-20,"width":465,"height":50},
+		{"id":"c4ed21f9bb680d6a","x":245,"y":-280,"width":220,"height":120,"type":"file","file":"Community Elements/6. 스포츠.md"},
+		{"id":"3c42cc9b82368963","x":-520,"y":-160,"width":220,"height":120,"type":"file","file":"Community Elements/2. 전산부 차장.md"},
+		{"id":"e7cd098a391830b0","x":355,"y":5,"width":220,"height":120,"type":"file","file":"Community Elements/5. 수학 구조물 만들기 대회, 부스 운영.md"},
+		{"id":"f1875929e78c6b4f","x":-40,"y":220,"width":220,"height":120,"type":"file","file":"Community Elements/4. 전교 부회장.md"},
+		{"id":"9dfe7f8f62e3109c","x":-460,"y":125,"width":220,"height":120,"type":"file","file":"Community Elements/3. 밴드 동아리.md"},
+		{"id":"1c52cd7dc46b7451","x":-150,"y":-340,"width":220,"height":120,"type":"file","file":"Community Elements/1. 기숙사.md"}
+	],
+	"edges":[
+		{"id":"40287b195ab2d9af","fromNode":"1c52cd7dc46b7451","fromSide":"bottom","toNode":"5c63655913d54829","toSide":"top"},
+		{"id":"48357d7f14e6c902","fromNode":"3c42cc9b82368963","fromSide":"right","toNode":"5c63655913d54829","toSide":"left"},
+		{"id":"e65e1fa96f11bd3b","fromNode":"9dfe7f8f62e3109c","fromSide":"top","toNode":"5c63655913d54829","toSide":"left"},
+		{"id":"3bdc331bb7c870e8","fromNode":"f1875929e78c6b4f","fromSide":"top","toNode":"5c63655913d54829","toSide":"bottom"},
+		{"id":"34ee85a98c41d0eb","fromNode":"e7cd098a391830b0","fromSide":"left","toNode":"5c63655913d54829","toSide":"right"},
+		{"id":"fa1f5aa161f9aea1","fromNode":"c4ed21f9bb680d6a","fromSide":"bottom","toNode":"5c63655913d54829","toSide":"right"}
+	]
+}

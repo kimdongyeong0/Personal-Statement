@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"c678fdc45c3ee796","type":"text","text":"AI, Computer Science","x":-120,"y":-120,"width":250,"height":60},
+		{"id":"508fbba238f72ffa","type":"file","file":"Major Elements/1. Why? 책.md","x":-560,"y":-472,"width":290,"height":145},
+		{"id":"2797c1ef61b087e1","type":"file","file":"Major Elements/2. 박스를 이용한 PC 모형.md","x":-760,"y":-237,"width":290,"height":147},
+		{"id":"71d48912ba663711","type":"file","file":"Major Elements/3. 조립 PC.md","x":-780,"y":-40,"width":290,"height":145},
+		{"id":"7412f4167d4b6356","type":"file","file":"Major Elements/인문, 사회.md","x":-490,"y":200,"width":290,"height":145},
+		{"id":"499cc385f0bb877c","type":"file","file":"Major Elements/자연과학.md","x":-140,"y":273,"width":290,"height":145},
+		{"id":"5f866efbc2de96c1","type":"file","file":"Major Elements/비지니스.md","x":255,"y":200,"width":290,"height":145},
+		{"id":"85318fe115b002a1","type":"file","file":"Major Elements/4. 소프트웨어 공부 시작.md","x":405,"y":-40,"width":290,"height":145},
+		{"id":"e1bcf7c153f2f4f2","type":"file","file":"Major Elements/5. Python.md","x":360,"y":-308,"width":300,"height":145},
+		{"id":"1895f875948b7181","type":"file","file":"Major Elements/6. Advanced.md","x":-45,"y":-472,"width":300,"height":145}
+	],
+	"edges":[
+		{"id":"d534e967a750ed2b","fromNode":"2797c1ef61b087e1","fromSide":"right","toNode":"c678fdc45c3ee796","toSide":"left"},
+		{"id":"79760f34b1b03264","fromNode":"71d48912ba663711","fromSide":"right","toNode":"c678fdc45c3ee796","toSide":"left"},
+		{"id":"6cfcaf174855b204","fromNode":"508fbba238f72ffa","fromSide":"bottom","toNode":"c678fdc45c3ee796","toSide":"top"},
+		{"id":"c9762d9157af5fa8","fromNode":"7412f4167d4b6356","fromSide":"top","toNode":"c678fdc45c3ee796","toSide":"bottom"},
+		{"id":"e4c638fb622558f6","fromNode":"499cc385f0bb877c","fromSide":"top","toNode":"c678fdc45c3ee796","toSide":"bottom"},
+		{"id":"81a38d4f216a2e0b","fromNode":"5f866efbc2de96c1","fromSide":"top","toNode":"c678fdc45c3ee796","toSide":"bottom"},
+		{"id":"0c9dd2b221b79edb","fromNode":"e1bcf7c153f2f4f2","fromSide":"left","toNode":"c678fdc45c3ee796","toSide":"right"},
+		{"id":"157be8e108eb21bd","fromNode":"1895f875948b7181","fromSide":"bottom","toNode":"c678fdc45c3ee796","toSide":"top"},
+		{"id":"44a8137bf8aa927d","fromNode":"85318fe115b002a1","fromSide":"left","toNode":"c678fdc45c3ee796","toSide":"right"}
+	]
+}

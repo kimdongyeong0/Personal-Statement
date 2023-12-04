@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"4bc74d8c73f4207c","type":"file","file":"Values, Goals Elements/\"자력을 갖추고 세상에 기여하자\".md","x":-160,"y":-35,"width":420,"height":50},
+		{"id":"be2554200e69ab19","type":"file","file":"canvas/1. 전공.canvas","x":140,"y":260,"width":440,"height":480,"color":"4"},
+		{"id":"d5870e49dfd8f1c6","type":"file","file":"canvas/2. 공동체 (활동, 협업, 소통).canvas","x":500,"y":-315,"width":400,"height":400,"color":"4"},
+		{"id":"066118bf4e5f7cf4","type":"file","file":"Values, Goals Elements/지평선중,고등학교 교육 철학.md","x":-760,"y":-260,"width":385,"height":170},
+		{"id":"65fe86799ec7fc8d","type":"file","file":"Values, Goals Elements/삶.md","x":-760,"y":-10,"width":385,"height":230},
+		{"id":"f3f3b9539abed47f","type":"file","file":"Values, Goals Elements/\"Be Indispensable Person\".md","x":-620,"y":340,"width":407,"height":200}
+	],
+	"edges":[
+		{"id":"626ee873a7034b13","fromNode":"066118bf4e5f7cf4","fromSide":"right","toNode":"4bc74d8c73f4207c","toSide":"left","color":"3"},
+		{"id":"3ac0e88be4572423","fromNode":"4bc74d8c73f4207c","fromSide":"bottom","toNode":"be2554200e69ab19","toSide":"top","color":"1"},
+		{"id":"81d48e63d4193b7a","fromNode":"4bc74d8c73f4207c","fromSide":"right","toNode":"d5870e49dfd8f1c6","toSide":"left","color":"1"},
+		{"id":"4b6d1581b32c43ac","fromNode":"65fe86799ec7fc8d","fromSide":"right","toNode":"4bc74d8c73f4207c","toSide":"left","color":"3"},
+		{"id":"7e6a5366e2611d4b","fromNode":"f3f3b9539abed47f","fromSide":"top","toNode":"4bc74d8c73f4207c","toSide":"bottom","color":"3"}
+	]
+}
